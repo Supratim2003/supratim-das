@@ -1,2 +1,2 @@
 name="supratim"
-print=(name.upper())
+print (name.upper())
